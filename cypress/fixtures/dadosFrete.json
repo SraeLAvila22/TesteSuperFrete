@@ -1,0 +1,39 @@
+{
+  "freteValido": {
+    "cepOrigem": "08090-284",
+    "cepDestino": "05407-002",
+    "dimensoes": {
+      "altura": "2",
+      "largura": "11",
+      "comprimento": "16"
+    }
+  },
+  "dimensoesMenores": {
+    "cepOrigem": "08090-284",
+    "cepDestino": "05407-002",
+    "dimensoes": {
+      "altura": "0.3",
+      "largura": "7",
+      "comprimento": "12"
+    }
+  },
+  "dimensoesMaiores": {
+    "cepOrigem": "08090-284",
+    "cepDestino": "05407-002",
+    "dimensoes": {
+      "altura": "151",
+      "largura": "151",
+      "comprimento": "151"
+    }
+  },
+  "cepInvalido": {
+    "cepOrigem": "12345-678",
+    "cepDestino": "98765-432",
+    "dimensoes": {
+      "altura": "10",
+      "largura": "10",
+      "comprimento": "13"
+    }
+  }
+}
+
